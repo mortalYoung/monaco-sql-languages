@@ -1,0 +1,1 @@
+import{j as r,d as o}from"./index-fc391d71.js";const s={progress:"mo-progress",bit:"mo-bit",active:"mo-progress--active"};function i({active:e}){return r.jsx("div",{className:o(s.progress,e&&s.active),role:"progressbar",children:r.jsx("div",{className:s.bit})})}export{i as P};
